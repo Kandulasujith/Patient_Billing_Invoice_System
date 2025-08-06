@@ -2,7 +2,7 @@
 
 A complete patient billing system designed using Microsoft Access. Includes forms, queries, reports, and VBA automation.
 
-## 🔧 Features
+##  Features
 
 - Normalized tables for patients and billing
 - Data integrity through defined relationships
@@ -11,13 +11,7 @@ A complete patient billing system designed using Microsoft Access. Includes form
 - Button-based record operations
 - Reports for invoice generation and monthly visit summaries
 
-## 🛠 Built With
+##  Built With
 
 - Microsoft Access
 - VBA (Visual Basic for Applications)
-
-##  Timeline
-
-- Built during training at Innomatics Research Labs (Aug 2025)
-
-> Generates clean invoices and stores all data securely in a relational database.
